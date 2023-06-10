@@ -1,5 +1,6 @@
 aiohttp
 beautifulsoup4
+git+https://github.com/yt-dlp/yt-dlp@master
 hachoir
 numpy
 Pillow
